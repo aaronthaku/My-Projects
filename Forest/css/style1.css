@@ -6,7 +6,7 @@
 
 header{
     height:100vh;
-    background-image: url("/image/b2.jpg");
+    background-image: url("/Forest/image/b2.jpg");
     background-size: cover;
 }
 
@@ -124,7 +124,7 @@ header{
 
 .services-section{
     height: 100vh;
-    background-image: url(/image/s1.jpg);
+    background-image: url(/Forest/image/s1.jpg);
 }
 
 .services-top{
